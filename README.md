@@ -1,3 +1,3 @@
 # safqa-
-## this is the project write know 
-the project for abdo alaa idea 
+## this is the project right now 
+The project for Abdo Alaa's idea 
